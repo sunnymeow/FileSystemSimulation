@@ -1,5 +1,5 @@
 # Roadmap
-![roadmap] (https://github.com/sunnymeow/FileSystemSimulation/blob/master/res/roadmap.jpg)
+![roadmap](https://github.com/sunnymeow/FileSystemSimulation/blob/master/res/roadmap.jpg)
 
 # Commands
 Each command that may be processed by the file system is matched by an input command line. The syntax of these command lines, and the processing to be performed, is as follows:
